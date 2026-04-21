@@ -11,10 +11,10 @@
         <li><strong>GitHub Location:</strong>
             <a href="https://github.com/ahaque12-code/ahaque12TERP.git">
                 https://github.com/ahaque12-code/ahaque12TERP.git</a><br></li>
-        <li><strong>Render Location:</strong><a></a><br></li>
-        <li><strong>Clearing Database Movies:</strong><br></li>
-        <li><strong>Inserting Movies:</strong><a></a><br></li>
-        <li><strong>List Movies:</strong><a></a><br></li>
+        <li><strong>Render Location:</strong><a href="https://ahaque12terp.onrender.com/">https://ahaque12terp.onrender.com/</a><br></li>
+        <li><strong>Clearing Database Movies:</strong><a href="https://ahaque12terp.onrender.com/clearCollection">https://ahaque12terp.onrender.com/clearCollection</a><br></li>
+        <li><strong>Inserting Movies:</strong><a href="https://ahaque12terp.onrender.com/insertMovies">https://ahaque12terp.onrender.com/insertMovies</a><br></li>
+        <li><strong>List Movies:</strong><a href="https://ahaque12terp.onrender.com/listMovies">https://ahaque12terp.onrender.com/listMovies</a><br></li>
         
     </ul>
    
