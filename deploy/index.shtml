@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Afif Haque Deployment Exercise</title>
+</head>
+<body>
+    <h1>Sample Page for Deployment on Render</h1>
+    <ul>
+        <li> <strong>Name:</strong> Afif Haque<br></li>
+        <li><strong>GitHub Location:</strong>
+            <a href="https://github.com/ahaque12-code/ahaque12TERP.git">
+                https://github.com/ahaque12-code/ahaque12TERP.git</a><br></li>
+        <li><strong>Render Location:</strong><a></a><br></li>
+        <li><strong>Clearing Database Movies:</strong><br></li>
+        <li><strong>Inserting Movies:</strong><a></a><br></li>
+        <li><strong>List Movies:</strong><a></a><br></li>
+        
+    </ul>
+   
+</body>
+</html>
